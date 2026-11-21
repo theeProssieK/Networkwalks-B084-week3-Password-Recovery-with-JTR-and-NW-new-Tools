@@ -14,7 +14,6 @@ Documentation of my Week 3 practical modules on password hashing and recovery. A
 - [W3-PM2: Password cracking with Networkwalks tools](#w3-pm2-password-cracking-with-networkwalks-tools)
 - [Challenges and lessons learned](#challenges-and-lessons-learned)
 - [Key takeaways](#key-takeaways)
-- [Repository structure](#repository-structure)
 - [Disclaimer](#disclaimer)
 - [Acknowledgements](#acknowledgements)
 
