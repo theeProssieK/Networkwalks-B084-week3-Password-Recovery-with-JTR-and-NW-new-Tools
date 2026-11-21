@@ -115,5 +115,5 @@ This repository is for **educational purposes only**. All activities were perfor
 
 Thanks to **[Networkwalks](https://www.networkwalks.com)** and my instructor **Waqas Karim (CCIE)** for the guidance and lab materials.
 
-**Author:** [Your Name] | [LinkedIn profile link]
+**Author:** PROSSY KAWUMA NANTUMBWE| https://lnkd.in/p/dgCnJX8t
  
