@@ -23,7 +23,7 @@ Documentation of my Week 3 practical modules on password hashing and recovery. A
 
 Password-protected files such as PDFs do not store the password itself. They store a **hash**, a scrambled one-way value that represents it. Security professionals test password strength by extracting that hash and trying many candidate passwords until one matches. If a password is short or common, it falls quickly.
 
-This week I recovered the password of a protected PDF (`My Locked PDF1.pdf`) using three approaches.
+This week I recovered the password of a protected PDF (`My Locked PDF1.pdf`. ' My Locked PDF2.pdf' ,My Locked PDF3.pdf') using three approaches.
 
 | Module | Focus | Tools |
 |--------|-------|-------|
