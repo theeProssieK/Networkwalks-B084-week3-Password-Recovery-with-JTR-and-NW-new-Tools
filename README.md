@@ -60,7 +60,7 @@ This week I recovered the password of a protected PDF (`My Locked PDF1.pdf`) usi
 |------|------------|
 | Johnny configured with John's executable |![john](Screenshot%202026-11-20%20152717.png) |
 | Hash saved in text file | ![hash](Screenshot%202026-11-21%20160607.png)|
-| Attack completed | `screenshots/pm1-attack-complete.png` |
+| Attack completed |![attack](Screenshot%202026-11-21%20155717.png)|
 | PDF unlocked | ![pdf](Screenshot%202026-11-18%20113228.png) |
 
 > The hash and recovered password are deliberately hidden or cropped in the screenshots.
