@@ -87,7 +87,7 @@ A **dictionary attack** tries a list of likely passwords instead of every possib
 
 | Step | Screenshot |
 |------|------------|
-| Hash extracted in Hash Calculator | `screenshots/pm2-hash-calculator.png` |
+| Hash extracted in Hash Calculator |![extract](Screenshot%202026-11-21%20163238.png)|
 | Password Cracker running | `screenshots/pm2-cracker-running.png` |
 | PDF unlocked | `screenshots/pm2-pdf-unlocked.png` |
 
