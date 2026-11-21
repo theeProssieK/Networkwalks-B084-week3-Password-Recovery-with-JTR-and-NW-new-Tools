@@ -58,7 +58,7 @@ This week I recovered the password of a protected PDF (`My Locked PDF1.pdf`) usi
 
 | Step | Screenshot |
 |------|------------|
-| Johnny configured with John's executable |![] |
+| Johnny configured with John's executable |![john](Screenshot%202026-11-20%20152717.png) |
 | Hash saved in text file | ![hash](Screenshot%202026-11-21%20160607.png)|
 | Attack completed | `screenshots/pm1-attack-complete.png` |
 | PDF unlocked | ![pdf](Screenshot%202026-11-18%20113228.png) |
